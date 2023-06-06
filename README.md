@@ -22,9 +22,9 @@ Google collab
 /*
 Program to implement the SVM For Spam Mail Detection..
 
-Developed by: 212220040040
+Developed by: 212220040081
 
-RegisterNumber:  A Harini Shamlin
+RegisterNumber:  logeshwaran s
 
 */
 
